@@ -1,4 +1,4 @@
-### Olá! Me chama João Guilherme
+### Olá! Me chama João Guilherme Silva Domingos 👋
 
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprimorar meus conhecimentos e explorar novas soluções. Tenho me aprofundado em Engenharia de Software e Desenvolvimento Full-Stack, estudando tecnologias essenciais para construir aplicações eficientes e escaláveis.
 
