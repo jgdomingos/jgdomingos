@@ -11,7 +11,6 @@ Entre em contato comigo:
 📞 +55 (11) 99947-7172
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgsdomingos/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/joaoguilhe592a)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jgdomingos&show_icons=true&theme=tokyonight)
