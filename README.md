@@ -59,23 +59,37 @@ Sou estudante de **Engenharia de Software** na **Universidade de Mogi das Cruzes
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/jgdomingos/portfolio">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jgdomingos&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/jgdomingos/loja-pecas-java">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jgdomingos&repo=loja-pecas-java&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/jgdomingos/Faculty">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jgdomingos&repo=Faculty&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/jgdomingos/OneBitCode">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jgdomingos&repo=OneBitCode&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jgdomingos/portfolio">🔹 portfolio</a></h3>
+      <!-- troque a linha abaixo por uma descrição de 1 linha sobre o projeto -->
+      <p><em>Descrição curta do projeto aqui.</em></p>
+      <img src="https://img.shields.io/github/languages/top/jgdomingos/portfolio?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/jgdomingos/portfolio?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jgdomingos/loja-pecas-java">🔹 loja-pecas-java</a></h3>
+      <p><em>Descrição curta do projeto aqui.</em></p>
+      <img src="https://img.shields.io/github/languages/top/jgdomingos/loja-pecas-java?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/jgdomingos/loja-pecas-java?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jgdomingos/Faculty">🔹 Faculty</a></h3>
+      <p><em>Projetos e exercícios da graduação em Engenharia de Software (UMC).</em></p>
+      <img src="https://img.shields.io/github/languages/top/jgdomingos/Faculty?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/jgdomingos/Faculty?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jgdomingos/OneBitCode">🔹 OneBitCode</a></h3>
+      <p><em>Descrição curta do projeto aqui.</em></p>
+      <img src="https://img.shields.io/github/languages/top/jgdomingos/OneBitCode?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/jgdomingos/OneBitCode?style=flat-square&color=4FD1C5&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
