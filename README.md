@@ -64,13 +64,13 @@ Sou estudante de **Engenharia de Software** na **Universidade de Mogi das Cruzes
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jgdomingos/portfolio">🔹 portfolio</a></h3>
       <!-- troque a linha abaixo por uma descrição de 1 linha sobre o projeto -->
-      <p><em>Descrição curta do projeto aqui.</em></p>
+      <p><em>Meu portfolio pessoal, com projetos, sobre mim, minha experiência e formação.</em></p>
       <img src="https://img.shields.io/github/languages/top/jgdomingos/portfolio?style=flat-square&color=4FD1C5&labelColor=0d1117" />
       <img src="https://img.shields.io/github/last-commit/jgdomingos/portfolio?style=flat-square&color=4FD1C5&labelColor=0d1117" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jgdomingos/loja-pecas-java">🔹 loja-pecas-java</a></h3>
-      <p><em>Descrição curta do projeto aqui.</em></p>
+      <p><em>Projeto acadêmico da UMC, colocando em prática um CRUD completo.</em></p>
       <img src="https://img.shields.io/github/languages/top/jgdomingos/loja-pecas-java?style=flat-square&color=4FD1C5&labelColor=0d1117" />
       <img src="https://img.shields.io/github/last-commit/jgdomingos/loja-pecas-java?style=flat-square&color=4FD1C5&labelColor=0d1117" />
     </td>
@@ -84,7 +84,7 @@ Sou estudante de **Engenharia de Software** na **Universidade de Mogi das Cruzes
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jgdomingos/OneBitCode">🔹 OneBitCode</a></h3>
-      <p><em>Descrição curta do projeto aqui.</em></p>
+      <p><em>Projetos e exercícios da formação Full-Stack JavaScript da OneBitCode</em></p>
       <img src="https://img.shields.io/github/languages/top/jgdomingos/OneBitCode?style=flat-square&color=4FD1C5&labelColor=0d1117" />
       <img src="https://img.shields.io/github/last-commit/jgdomingos/OneBitCode?style=flat-square&color=4FD1C5&labelColor=0d1117" />
     </td>
