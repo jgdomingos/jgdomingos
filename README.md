@@ -100,7 +100,7 @@ Sou estudante de **Engenharia de Software** na **Universidade de Mogi das Cruzes
 <img src="https://github-readme-stats.vercel.app/api?username=jgdomingos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgdomingos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="30%" />
 
-<img src="https://streak-stats.demolab.com?user=jgdomingos&theme=tokyonight&hide_border=true&background=0D1117&v=2" width="70%" />
+<img src="https://streak-stats.demolab.com?user=jgdomingos&theme=tokyonight&hide_border=true&background=0D1117&v=3" width="70%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgdomingos&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" />
 
